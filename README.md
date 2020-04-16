@@ -43,8 +43,6 @@
 - - -
 ![K-021](https://user-images.githubusercontent.com/59239079/79435656-e5b39000-800a-11ea-971b-6775d045ffef.png)
 - - -
-![K-022](https://user-images.githubusercontent.com/59239079/79435721-f6fc9c80-800a-11ea-8f34-8c9e178f3915.png)
-- - -
 ![K-023](https://user-images.githubusercontent.com/59239079/79435747-011e9b00-800b-11ea-87a8-1af1b8c811db.png)
 - - -
 ![K-024](https://user-images.githubusercontent.com/59239079/79435789-0d0a5d00-800b-11ea-851d-6be2a83380b2.png)
